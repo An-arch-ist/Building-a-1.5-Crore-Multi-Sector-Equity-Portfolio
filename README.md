@@ -1,20 +1,20 @@
 # Building-a-1.5-Crore-Multi-Sector-Equity-Portfolio
 The workbook actually contains:
 
-20 individual company analysis sheets
-4 sectors
-5-year historical financial data for the core company analyses
-10+ financial/operating/valuation metrics
-Growth ratios
-Profitability ratios
-Efficiency ratios
-Solvency ratios
-Return ratios
-Activity ratios
-Valuation multiples
-Qualitative scoring on a 1–5 scale
-Forward projections for several companies
-Company-level fundamental analysis supporting the ₹1.5 Cr portfolio construction
+20 individual company analysis sheets,
+4 sectors,
+5-year historical financial data for the core company analyses,
+10+ financial/operating/valuation metrics,
+Growth ratios,
+Profitability ratios,
+Efficiency ratios,
+Solvency ratios,
+Return ratios,
+Activity ratios,
+Valuation multiples,
+Qualitative scoring on a 1–5 scale,
+Forward projections for several companies,
+Company-level fundamental analysis supporting the ₹1.5 Cr portfolio construction.
 
 For example, the Defense sheets go considerably deeper than a simple stock comparison: BEL includes historical revenue, profit, EBITDA, EPS, ROE, P/E, P/B, EV/EBITDA, dividend yield, debt-equity and working-capital metrics, alongside qualitative scores.
 
